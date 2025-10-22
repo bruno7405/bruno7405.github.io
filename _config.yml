@@ -274,7 +274,7 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: ""
+      path: "/talks"
       type: talks
     values:
       layout: talk
